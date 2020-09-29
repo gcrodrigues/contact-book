@@ -19,7 +19,7 @@ export const Header = styled.View`
 
 export const Title = styled.Text`
   font-size: 36px;
-  color: white;
+  color: "#fff";
 `;
 
 export const Total = styled.Text`
